@@ -6,7 +6,7 @@ const Home = () => {
     <div
       style={{
         height: "100vh",
-        padding: "20px",
+        padding: "20px", 
         backgroundColor: "#232323",
         color: "white",
         display: "flex",
