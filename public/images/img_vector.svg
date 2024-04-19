@@ -1,0 +1,12 @@
+<svg width="482" height="330" viewBox="0 0 482 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_26_54)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M217.421 0.663571C272.787 5.63627 295.889 54.6141 341.084 78.4918C386.424 102.446 473.66 99.6737 481.424 140.144C489.7 183.282 406.651 204.014 371.963 239.451C351.202 260.661 349.664 291.421 319.593 305.474C290.086 319.264 252.155 308.344 217.421 311.672C174.903 315.746 134.037 337.777 93.7164 327.116C49.8267 315.511 6.0203 288.118 0.370081 254.282C-5.28522 220.417 55.5718 200.173 66.9937 167.092C79.9215 129.649 40.3581 86.3258 69.4872 54.0982C100.552 19.7287 161.448 -4.36359 217.421 0.663571Z" fill="#97623A"/>
+</g>
+<defs>
+<filter id="filter0_f_26_54" x="-50" y="-50" width="582" height="430" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="25" result="effect1_foregroundBlur_26_54"/>
+</filter>
+</defs>
+</svg>
