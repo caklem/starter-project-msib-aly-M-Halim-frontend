@@ -12,7 +12,7 @@ const Home = () => {
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
-        alignItems: "center",
+        alignItems: "center", 
       }}
     >
       <h1 style={{ fontSize: "48px", marginBottom: "20px" }}>Welcome to Our App!</h1>
