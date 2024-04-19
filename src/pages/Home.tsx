@@ -15,9 +15,10 @@ const Home = () => {
         alignItems: "center", 
       }}
     >
-      <h1 style={{ fontSize: "48px", marginBottom: "20px" }}>Welcome to Our App!</h1>
+      <h1 style={{ fontSize: "48px", marginBottom: "20px" }}>Selamat Datang Di Web!</h1>
       <p style={{ fontSize: "18px", marginBottom: "30px", textAlign: "center" }}>
-        We are thrilled to have you here. Explore our app by clicking on the links below.
+        Sebelumnya Mohon maaf jika Tampilanya sama code nya masih tidak rapi, karena baru kali ini memakai React JS jadi ya se adanya :).
+        Silahkan Klik Dekstop One, Dekstop Two, Dan Dekstop three jika ingin Melihat Tampilan Login page,Register Page dan Profil Page.
       </p>
       <ul style={{ listStyle: "none", padding: "0", display: "flex", justifyContent: "center" }}>
         <li style={{ marginRight: "20px" }}>
