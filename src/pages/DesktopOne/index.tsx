@@ -34,7 +34,7 @@ export default function DesktopOnePage() {
               className="h-[584px] w-[69%] object-cover md:w-full"
             />
             <div className="relative ml-[-79px] mt-5 flex w-[31%] flex-col items-start gap-1.5 md:ml-0 md:w-full">
-              <Text as="p" className="ml-3.5 md:ml-0">
+              <Text as="p" className ="ml-3.5 md:ml-0">
                 Password
               </Text>
               <Input
